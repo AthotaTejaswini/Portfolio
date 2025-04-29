@@ -6,7 +6,7 @@
   color: white;
   scroll-behavior: smooth;
 
-  background: url('/bgimg.jpg') no-repeat center center fixed;
+  background: url('bgimg.jpg') no-repeat center center fixed;
   background-size: contain;
   background-size: cover;
 }
@@ -422,7 +422,7 @@ h2 {
   padding: 1rem;
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.1);
-  background: url('/secbg2.jpg') no-repeat center center;
+  background: url('secbg2.jpg') no-repeat center center;
   background-size: cover;
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
   cursor: pointer;
