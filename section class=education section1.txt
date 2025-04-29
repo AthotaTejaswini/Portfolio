@@ -1,0 +1,40 @@
+ <section class="education section">
+      <h2>Educational Qualifications</h2>
+    
+      <div class="edu-box">
+        <div class="edu-content">
+          <h3><strong>Bachelor of Technology in CSE (AI & ML)</strong></h3>
+          <ul>
+            <li>B V Raju Institute of Technology, Telangana</li>
+            <li>(2023–2026)</li>
+            <li>CGPA: 8.33 (till 5th sem)</li>
+          </ul>
+        </div>
+        <img src="ai-generated-image2.jpg" alt="B.Tech" class="section-image" />
+      </div>
+    
+      <div class="edu-box">
+        <div class="edu-content">
+          <h3><strong>Diploma in Computer Engineering</strong></h3>
+          <ul>
+            <li>Madhira Institute of Technology and Sciences, Telangana</li>
+            <li>(2020–2023)</li>
+            <li>CGPA: 9.0</li>
+          </ul>
+        </div>
+        <img src="ai-generated-image3.jpg" alt="Diploma" class="section-image" />
+      </div>
+    
+      <div class="edu-box">
+        <div class="edu-content">
+          <h3><strong>Secondary School Education</strong></h3>
+          <ul>
+            <li>St. Joseph’s CCR Vidyanilayam, Telangana</li>
+            <li>2020</li>
+            <li>CGPA: 10.0</li>
+          </ul>
+        </div>
+        <img src="ai-generated-image4.jpg" alt="School" class="section-image" />
+      </div>
+    </section>
+    
